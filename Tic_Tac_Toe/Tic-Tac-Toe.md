@@ -11,11 +11,13 @@ A CLI implementation of Tic-Tac-Toe
   
 ### Usage
 Players take turns entering numbers 1-9 to place their mark (X or O) on the board:
-1 | 2 | 3
----------
-4 | 5 | 6
----------
-7 | 8 | 9 
+```
+                                                        1 | 2 | 3
+                                                        ---------
+                                                        4 | 5 | 6
+                                                        ---------
+                                                        7 | 8 | 9 
+```
 
 ## C++ Code
 ```cpp
